@@ -1,0 +1,72 @@
+.r-container{
+    overflow: hidden;
+    position: relative;
+}
+.r-head{
+    margin-bottom: 2rem;
+}
+
+.swiper-horizontal{
+    overflow: visible;
+}
+.r-buttons{
+    position: absolute;
+    display: flex;
+    gap: 1rem;
+    top: -4rem;
+    right: 0;
+}
+.r-buttons button{
+    font-size: 1.2rem;
+    padding: 0.2rem 0.8rem;
+    color: blue;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+.r-buttons>:nth-child(1){
+    background-color: #EEEEFF;
+}
+.r-buttons>:nth-child(2){
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+.r-wrapper {
+    background: var(--glass);
+    overflow: hidden;
+    padding: 2rem 0;
+  }
+  
+  .r-container {
+    position: relative;
+  }
+  
+  .r-head {
+    margin-bottom: 2rem;
+  }
+  
+  .r-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2rem;
+  }
+  
+  .r-grid-item {
+    background-color: var(--white);
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .r-grid-item:hover {
+    transform: translateY(-10px);
+  }
+  @media (max-width: 640px) {
+    .r-head {
+      align-items: center;
+    }
+    .r-buttons{
+      position: initial;
+    }
+    
+  }

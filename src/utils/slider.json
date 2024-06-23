@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bhouse",
+        "price": "70,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./BHouse.jpeg"
+    },
+    {
+        "name": "Dhouse",
+        "price": "95,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./DHouse.jpeg"
+    },
+    {
+        "name": "DHouse2",
+        "price": "120,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./DHouse2.jpeg"
+    },
+    {
+        "name": "GHouse",
+        "price": "100,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./GHouse.jpeg"
+    },
+    {
+        "name": "House1",
+        "price": "150,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./House1.jpeg"
+    },
+    {
+        "name": "YHouse",
+        "price": "80,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./YHouse.jpeg"
+    },
+    {
+        "name": "YHouse1",
+        "price": "180,000",
+        "detail": "Jakarta Garden city street, cakung.pulo Gadung, Jakarta Timur",
+        "image": "./YHouse1.jpeg"
+    }
+]
